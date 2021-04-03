@@ -4,14 +4,14 @@ body {
   min-height: 100%;
   margin: 0;
   padding: 0;
-  background: #4c4783da;
+  background: rgba(58, 52, 121, 0.85);
 }
 
 .timer-title {
   display: flex;
   justify-content: center;
 
-  color: rgb(59, 196, 25);
+  color: rgba(132, 229, 245, 0.85);
   font-weight: 100;
   font-size: 36px;
   margin: 40px 0px 20px;
